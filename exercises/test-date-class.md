@@ -96,10 +96,9 @@ Date actuelle > Date autre.
 2/- Évaluation de la couverture de l'instruction :
 
 Les tests actuels couvrent la plupart des instructions.
-Ajoutez des tests pour couvrir les conditions manquantes dans nextDate() et previousDate().
 
 3/-
 Évaluation de la couverture de la décision (Base Choice Coverage) :
 
 Aucun prédicat avec plus de deux opérateurs booléens n'est présent dans le code.
-Par conséquent, la Base Choice Coverage est déjà satisfaite.
+la Base Choice Coverage est déjà satisfaite.
